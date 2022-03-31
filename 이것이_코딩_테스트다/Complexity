@@ -10,9 +10,10 @@
 빅O 표기법
 
 O(1) : 상수시간/ Constant Time
-O(logN) : 
-O(N)
-O(NlogN)
-O(N^2)
-O(N^3)
-O(2^n)
+O(logN) : 로그시간/ Log time
+O(N) : 선형시간
+O(NlogN) : 로그선형시간
+O(N^2) : 이차시간
+O(N^3) : 삼차시간
+O(2^n) : 지수시간
+
